@@ -1,19 +1,19 @@
 # ICESat-2_Snowdepth
 Evaluating the efficacy of ICESat-2 data to measure snow depth over Tuolumne Meadows, CA.
 
-## Hannah Besso and Kory Swabb
+Hannah Besso and Kory Swabb
 
 
 ## Project Title
-Snow depth? Snow problem! 
+Snow depth? S'now problem! 
 
 ## Summary
 This project will be evaluating the efficacy of ICESat-2 data to measure snow depth over Tuolumne Meadows in Yosemite.
 
 ## Background
-Tuolumne Meadows is located in Yosemite National Park, CA
-The Upper Tuolumne River Watershed is a unique area for hydrologists to study, as it is one the only designated wilderness areas to provide a water source to a major city (San Francisco)
-The watershed is snow-melt dependent, and drains to the Hetch Hetchy Reservoir
+* Tuolumne Meadows is located in Yosemite National Park, CA
+* The Upper Tuolumne River Watershed is a unique area for hydrologists to study, as it is one the only designated wilderness areas to provide a water source to a major city (San Francisco)
+* The watershed is snow-melt dependent, and drains to the Hetch Hetchy Reservoir
  
 
 ## Problem statement, question(s) and/or objective(s)
