@@ -45,4 +45,5 @@ We expect that the ICESat-2 elevation data will be more similar to the ASO data 
 
 ## References
 1. https://www.sciencedirect.com/science/article/abs/pii/S0034425716302577?casa_token=jEkYG0hq1WcAAAAA:979ZLhf9CjFxWh8rQlDtYFcmEODuvcjbwXn3pasNwN8gzjqZo8g7RkW_fghlJt5fFr5wi_0Myw
-2. AGU Reports
+2. Menounos B, Gardner A, Williamson S, Heathfield D. Assessment of Penetration Bias of ICESat-2 over Snow and Ice-covered Terrain, Western Canada. Poster session presented at: Fall Meeting of the American Geophysical Union; 2020 Dec 1-17; online.
+3. Schenk T, Csatho B, Neumann T. A First Horizontal Accuracy Assessment of ICESat-2. Poster session presented at: Fall Meeting of the American Geophysical Union; 2020 Dec 1-17; online.
