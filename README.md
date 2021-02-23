@@ -47,7 +47,7 @@ Figure 1. Overview of Watershed
 (https://www.tid.org/about-tid/current-projects/tuolumne-river-watershed/)
 
 Figure 2. 
-![alt text]()
+![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/ASO_SnowOff.png)
 
 ## References
 1. https://www.sciencedirect.com/science/article/abs/pii/S0034425716302577?casa_token=jEkYG0hq1WcAAAAA:979ZLhf9CjFxWh8rQlDtYFcmEODuvcjbwXn3pasNwN8gzjqZo8g7RkW_fghlJt5fFr5wi_0Myw
