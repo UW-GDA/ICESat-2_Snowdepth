@@ -24,7 +24,7 @@ Our project will attempt to answer the question: Can ICESat-2 be used to accurat
    * https://nsidc.org/data/ASO_50M_SWE/versions/1
    * https://www.airbornesnowobservatories.com/data
 * Snow pillow observations
-   * https://www.wcc.nrcs.usda.gov/snow/
+   * https://info.water.ca.gov/snow/current/snow/index.html
 * Spaceborne lidar (ICESat-2)
    * https://nsidc.org/data/icesat-2/data-sets
 
