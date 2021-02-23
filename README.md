@@ -46,7 +46,8 @@ Figure 1. Overview of Watershed
 ![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/tuolumne-river-watershed.jpg)
 (https://www.tid.org/about-tid/current-projects/tuolumne-river-watershed/)
 
-Figure 2. 
+Figure 2. ASO DEM for the Upper Tuolumne Watershed
+
 ![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/ASO_SnowOff.png)
 
 ## References
