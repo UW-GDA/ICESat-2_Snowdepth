@@ -13,7 +13,7 @@ This project will be evaluating the efficacy of ICESat-2 data to measure snow de
 ## Background
 * Tuolumne Meadows is located in Yosemite National Park, CA
 * The Upper Tuolumne River Watershed is a unique area for hydrologists to study, as it is one the only designated wilderness areas to provide a water source to a major city (San Francisco)
-* The watershed is snow-melt dependent, and drains to the Hetch Hetchy Reservoir
+* The watershed is snow-melt dependent, and drains approximately 2,000 square miles to the Hetch Hetchy Reservoir
  
 
 ## Problem statement, question(s) and/or objective(s)
