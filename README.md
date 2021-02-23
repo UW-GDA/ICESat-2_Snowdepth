@@ -28,10 +28,10 @@ Our project will attempt to answer the question: Can ICESat-2 be used to accurat
 Rioxarray, rasterio, xarray, geopandas, pandas, numpy, scipystats, matplotlib, etc
 
 ## Planned methodology/approach
-Analyze the snow-off airborne lidar to identify locations with low surface roughness. 
-Subset the spaceborne lidar to these locations (rough terrain has been shown to produce less accurate ICESat-2 measurements) and compare to the airborne lidar. 
-If there is additional time, repeat 1 & 2 for snow-on data.
-Determine if there is any correlation between important factors and data disagreements. Key factors include aforementioned surface roughness, varying tree density, and potential lidar penetration of the snowpack (for snow-on data).
+1. Analyze the snow-off airborne lidar to identify locations with low surface roughness. 
+2. Subset the spaceborne lidar to these locations (rough terrain has been shown to produce less accurate ICESat-2 measurements) and compare to the airborne lidar. 
+3. If there is additional time, repeat 1 & 2 for snow-on data.
+4. Determine if there is any correlation between important factors and data disagreements. Key factors include aforementioned surface roughness, varying tree density, and potential lidar penetration of the snowpack (for snow-on data).
 
 ## Expected outcomes
 We expect that the ICESat-2 elevation data will be more similar to the ASO data in areas with low slope and low surface roughness. We also expect better results in areas with sparser vegetation cover.
