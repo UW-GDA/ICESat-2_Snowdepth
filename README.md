@@ -41,8 +41,13 @@ Determine if there is any correlation between important factors and data disagre
 We expect that the ICESat-2 elevation data will be more similar to the ASO data in areas with low slope and low surface roughness. We also expect better results in areas with sparser vegetation cover.
 
 ## Any other relevant information, images/tables, references, etc.
+
+Figure 1. Overview of Watershed
 ![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/tuolumne-river-watershed.jpg)
 (https://www.tid.org/about-tid/current-projects/tuolumne-river-watershed/)
+
+Figure 2. 
+![alt text]()
 
 ## References
 1. https://www.sciencedirect.com/science/article/abs/pii/S0034425716302577?casa_token=jEkYG0hq1WcAAAAA:979ZLhf9CjFxWh8rQlDtYFcmEODuvcjbwXn3pasNwN8gzjqZo8g7RkW_fghlJt5fFr5wi_0Myw
