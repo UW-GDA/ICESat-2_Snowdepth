@@ -1,11 +1,7 @@
-# ICESat-2_Snowdepth
+# Snow Depth? Snow Problem!
 Evaluating the efficacy of ICESat-2 data to measure snow depth over Tuolumne Meadows, CA.
 
-Hannah Besso and Kory Swabb
-
-
-## Project Title
-Snow depth? S'now problem! 
+Hannah Besso and Kory Swabb 
 
 ## Summary
 This project will be evaluating the efficacy of ICESat-2 data to measure snow depth over Tuolumne Meadows in Yosemite.
