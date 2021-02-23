@@ -10,7 +10,8 @@ This project will be evaluating the efficacy of ICESat-2 data to measure snow de
 * Tuolumne Meadows is located in Yosemite National Park, CA
 * The Upper Tuolumne River Watershed is a unique area for hydrologists to study, as it is one the only designated wilderness areas to provides power and water source to a major city (San Francisco)
 * The watershed is snow-melt dependent, and drains approximately 2,000 square miles to the Hetch Hetchy Reservoir
- 
+* Predicting Snow Water Equivalent (SWE) in snow-melt dependent watersheds is important for reservoir managers to both ensure enough water availability throughout the summer, and to avoid downstream flooding
+* Most snow-melt dependent watersheds do not have regular aerial lidar flights throughout the winter to provide this information. ICESat-2 provides a promising spaceborne lidar dataset that could be leveraged to provide SWE information in understudied watersheds.
 
 ## Problem statement, question(s) and/or objective(s)
 Our project will attempt to answer the question: Can ICESat-2 be used to accurately measure snow depth in the Sierra Nevadas? We will compare snow depth measurements taken using ICESat-2 (spaceborne lidar) and ASO (airborne lidar) in terrain with low surface roughness. This evaluation will help inform whether ICESat-2 can be used to estimate snow water equivalent in watersheds where aerial lidar is not regularly flown throughout the winter.
