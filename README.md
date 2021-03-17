@@ -47,6 +47,10 @@ Figure 2. ASO DEM for the Upper Tuolumne Watershed
 
 ![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/ASO_SnowOff.png)
 
+## Actual Outcomes
+
+## Future Work
+
 ## References
 1. Thomas H. Painter, Daniel F. Berisford, Joseph W. Boardman, Kathryn J. Bormann, Jeffrey S. Deems, Frank Gehrke, Andrew Hedrick, Michael Joyce, Ross Laidlaw, Danny Marks, Chris Mattmann, Bruce McGurk, Paul Ramirez, Megan Richardson, S. McKenzie Skiles, Felix C. Seidel, Adam Winstral, The Airborne Snow Observatory: Fusion of scanning lidar, imaging spectrometer, and physically-based modeling for mapping snow water equivalent and snow albedo, Remote Sensing of Environment, Volume 184, 2016, Pages 139-152, ISSN 0034-4257, https://doi.org/10.1016/j.rse.2016.06.018. (https://www.sciencedirect.com/science/article/pii/S0034425716302577)
 2. Menounos B, Gardner A, Williamson S, Heathfield D. Assessment of Penetration Bias of ICESat-2 over Snow and Ice-covered Terrain, Western Canada. Poster session presented at: Fall Meeting of the American Geophysical Union; 2020 Dec 1-17; online.
