@@ -21,8 +21,10 @@ Our project will attempt to answer the question: Can ICESat-2 be used to accurat
    * https://nsidc.org/data/ASO_50M_SWE/versions/1
    * https://www.airbornesnowobservatories.com/data
 * Snow pillow observations
+   * Daily data from 11/1/2019 - 6/30/2020, for the 
    * https://info.water.ca.gov/snow/current/snow/index.html
    * http://cdec.water.ca.gov/dynamicapp/selectQuery
+   
 * Spaceborne lidar (ICESat-2)
    * https://nsidc.org/data/icesat-2/data-sets
 
@@ -47,6 +49,10 @@ Figure 1. Overview of Watershed
 Figure 2. ASO DEM for the Upper Tuolumne Watershed
 
 ![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/ASO_SnowOff.png)
+
+Figure 3. Snow Pillow Sites
+
+![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/IMG_Snow_Pillows_Locations.JPG)
 
 ## Actual Outcomes
 The regression analysis between the snow-off ASO and ICESat-2 data yielded an R value of 1. This is likely due to the difference in magnitude between the elevation values and the difference values between the two datasets. The maximum difference between the datasets was around 15 meters, while the mean was -0.038419. The standard deviation was 2.3 meters. This was less acurate than we would like for measuring snow depth, because the ICESat-2 snow-on values need to be differenced from the snow-off DEM to obtain snow depth values. When we repeated our analysis for snow-on ICESat-2 data, we found a large spread of snow depth values, with many negative values that are likely due to disagreements between the ICESat-2 and ASO data. However the mean of the ICESat-2 derived snowdepths followed a general trend of increased snow depth during the accumulation season and decrease in snow depth during the ablation season.
