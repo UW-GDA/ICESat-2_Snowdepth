@@ -59,6 +59,7 @@ Figure 3. Snow Pillow Sites (5)
    * Data_Access_Icesat2.ipynb
    * ATL08_simplifier.ipynb
    * Create_ICESat2_GDF_premask.ipynb
+   * Difference_ICESat-2_ASO.ipynb
    * SnowDepthComparison_CalcVSPillow.ipynb
    * Summer_2020_DataAnalysis.ipynb
 
