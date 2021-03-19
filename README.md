@@ -17,8 +17,8 @@ This project will be evaluating the efficacy of ICESat-2 data to measure snow de
 Our project will attempt to answer the question: Can ICESat-2 be used to accurately measure snow depth in the Sierra Nevadas? We will compare snow depth measurements taken using ICESat-2 (spaceborne lidar) and ASO (airborne lidar) in terrain with low surface roughness. This evaluation will help inform whether ICESat-2 can be used to estimate snow water equivalent in watersheds where aerial lidar is not regularly flown throughout the winter.
 
 ## Datasets you will use (with links, if available)
-* Airborne lidar (ASO data)
-   * ATL08
+* Airborne Snow Observatory (ASO) Lidar
+   * Snow-off, 3mX3m resolution, 2020
    * https://nsidc.org/data/ASO_50M_SWE/versions/1
    * https://www.airbornesnowobservatories.com/data
 * Snow pillow observations
@@ -27,6 +27,7 @@ Our project will attempt to answer the question: Can ICESat-2 be used to accurat
    * http://cdec.water.ca.gov/dynamicapp/selectQuery
    
 * Spaceborne lidar (ICESat-2)
+   * ATL08
    * https://nsidc.org/data/icesat-2/data-sets
 
 ## Tools/packages you’ll use (with links)
