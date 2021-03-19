@@ -60,4 +60,4 @@ We would like to complete a similar analysis for roughness values instead of slo
 2. Menounos B, Gardner A, Williamson S, Heathfield D. Assessment of Penetration Bias of ICESat-2 over Snow and Ice-covered Terrain, Western Canada. Poster session presented at: Fall Meeting of the American Geophysical Union; 2020 Dec 1-17; online.
 3. Schenk T, Csatho B, Neumann T. A First Horizontal Accuracy Assessment of ICESat-2. Poster session presented at: Fall Meeting of the American Geophysical Union; 2020 Dec 1-17; online.
 4. Riley, Shawn & Degloria, Stephen & Elliot, S.D.. (1999). A Terrain Ruggedness Index that Quantifies Topographic Heterogeneity. International Journal of Science. 5. 23-27. https://www.researchgate.net/publication/259011943_A_Terrain_Ruggedness_Index_that_Quantifies_Topographic_Heterogeneity/citation/download
-5. 
+5. Malek SA, Bales RC, Glaser SD. Estimation of Daily Spatial Snow Water Equivalent from Historical Snow Maps and Limited In-Situ Measurements. Hydrology. 2020; 7(3):46. https://doi.org/10.3390/hydrology7030046
