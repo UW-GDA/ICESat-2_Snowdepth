@@ -21,7 +21,7 @@ Our project will attempt to answer the question: Can ICESat-2 be used to accurat
    * https://nsidc.org/data/ASO_50M_SWE/versions/1
    * https://www.airbornesnowobservatories.com/data
 * Snow pillow observations
-   * Daily data from 11/1/2019 - 6/30/2020, for the 
+   * Daily data from 11/1/2019 - 6/30/2020, for the Tuolumne Meadows, Slide Canyon, and Dana Meadows Sites.
    * https://info.water.ca.gov/snow/current/snow/index.html
    * http://cdec.water.ca.gov/dynamicapp/selectQuery
    
@@ -65,5 +65,5 @@ We would like to complete a similar analysis for roughness values instead of slo
 1. Thomas H. Painter, Daniel F. Berisford, Joseph W. Boardman, Kathryn J. Bormann, Jeffrey S. Deems, Frank Gehrke, Andrew Hedrick, Michael Joyce, Ross Laidlaw, Danny Marks, Chris Mattmann, Bruce McGurk, Paul Ramirez, Megan Richardson, S. McKenzie Skiles, Felix C. Seidel, Adam Winstral, The Airborne Snow Observatory: Fusion of scanning lidar, imaging spectrometer, and physically-based modeling for mapping snow water equivalent and snow albedo, Remote Sensing of Environment, Volume 184, 2016, Pages 139-152, ISSN 0034-4257, https://doi.org/10.1016/j.rse.2016.06.018. (https://www.sciencedirect.com/science/article/pii/S0034425716302577)
 2. Menounos B, Gardner A, Williamson S, Heathfield D. Assessment of Penetration Bias of ICESat-2 over Snow and Ice-covered Terrain, Western Canada. Poster session presented at: Fall Meeting of the American Geophysical Union; 2020 Dec 1-17; online.
 3. Schenk T, Csatho B, Neumann T. A First Horizontal Accuracy Assessment of ICESat-2. Poster session presented at: Fall Meeting of the American Geophysical Union; 2020 Dec 1-17; online.
-4. Riley, Shawn & Degloria, Stephen & Elliot, S.D.. (1999). A Terrain Ruggedness Index that Quantifies Topographic Heterogeneity. International Journal of Science. 5. 23-27. https://www.researchgate.net/publication/259011943_A_Terrain_Ruggedness_Index_that_Quantifies_Topographic_Heterogeneity/citation/download
+4. Riley, Shawn & Degloria, Stephen & Elliot, S.D.. (1999). A Terrain Ruggedness Index that Quantifies Topographic Heterogeneity. International Journal of Science. 5. 23-27. https://www.researchgate.net/publication/259011943_A_Terrain_Ruggedness_Index_that_Quantifies_Topographic_Heterogeneity
 5. Malek SA, Bales RC, Glaser SD. Estimation of Daily Spatial Snow Water Equivalent from Historical Snow Maps and Limited In-Situ Measurements. Hydrology. 2020; 7(3):46. https://doi.org/10.3390/hydrology7030046
