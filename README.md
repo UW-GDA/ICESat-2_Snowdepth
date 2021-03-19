@@ -21,7 +21,7 @@ Our project will attempt to answer the question: Can ICESat-2 be used to accurat
    * https://nsidc.org/data/ASO_50M_SWE/versions/1
    * https://www.airbornesnowobservatories.com/data
 * Snow pillow observations
-   * Daily data from 11/1/2019 - 6/30/2020, for the Tuolumne Meadows, Slide Canyon, and Dana Meadows Sites.
+   * Utilized daily snow depth data from 11/1/2019 - 6/30/2020, for the Tuolumne Meadows, Slide Canyon, and Dana Meadows Sites.
    * https://info.water.ca.gov/snow/current/snow/index.html
    * http://cdec.water.ca.gov/dynamicapp/selectQuery
    
@@ -46,7 +46,7 @@ Figure 1. Overview of Watershed
 ![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/tuolumne-river-watershed.jpg)
 (https://www.tid.org/about-tid/current-projects/tuolumne-river-watershed/)
 
-Figure 2. ASO DEM for the Upper Tuolumne Watershed
+Figure 2. ASO DEM for the Upper Tuolumne Watershed (m)
 
 ![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/ASO_SnowOff.png)
 
