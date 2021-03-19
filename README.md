@@ -50,9 +50,9 @@ Figure 2. ASO DEM for the Upper Tuolumne Watershed
 
 ![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/ASO_SnowOff.png)
 
-Figure 3. Snow Pillow Sites
+Figure 3. Snow Pillow Sites (5)
 
-![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/IMG_Snow_Pillows_Locations.JPG)
+![alt text](https://github.com/UW-GDA/ICESat-2_Snowdepth/blob/main/IMG_Snow_Pillows_Locations.JPG)
 
 ## Actual Outcomes
 The regression analysis between the snow-off ASO and ICESat-2 data yielded an R value of 1. This is likely due to the difference in magnitude between the elevation values and the difference values between the two datasets. The maximum difference between the datasets was around 15 meters, while the mean was -0.038419. The standard deviation was 2.3 meters. This was less acurate than we would like for measuring snow depth, because the ICESat-2 snow-on values need to be differenced from the snow-off DEM to obtain snow depth values. When we repeated our analysis for snow-on ICESat-2 data, we found a large spread of snow depth values, with many negative values that are likely due to disagreements between the ICESat-2 and ASO data. However the mean of the ICESat-2 derived snowdepths followed a general trend of increased snow depth during the accumulation season and decrease in snow depth during the ablation season.
