@@ -63,7 +63,7 @@ Figure 3. Snow Pillow Sites (5)
    * Plot_ATL08.ipynb
    * Difference_ICESat-2_ASO.ipynb
    * SnowDepthComparison_CalcVSPillow.ipynb
-   * SnowDepthComparison_CalcVSPillow.ipynb
+   * Summer_2020_DataAnalysis.ipynb
 
 ## Actual Outcomes
 The regression analysis between the snow-off ASO and ICESat-2 data yielded an R value of 1. This is likely due to the difference in magnitude between the elevation values and the difference values between the two datasets. The maximum difference between the datasets was around 15 meters, while the mean was -0.038419. The standard deviation was 2.3 meters. This was less acurate than we would like for measuring snow depth, because the ICESat-2 snow-on values need to be differenced from the snow-off DEM to obtain snow depth values. When we repeated our analysis for snow-on ICESat-2 data, we found a large spread of snow depth values, with many negative values that are likely due to disagreements between the ICESat-2 and ASO data. However the mean of the ICESat-2 derived snowdepths followed a general trend of increased snow depth during the accumulation season and decrease in snow depth during the ablation season.
