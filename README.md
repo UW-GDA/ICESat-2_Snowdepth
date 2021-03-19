@@ -27,7 +27,7 @@ Our project will attempt to answer the question: Can ICESat-2 be used to accurat
    * https://nsidc.org/data/icesat-2/data-sets
 
 ## Tools/packages you’ll use (with links)
-Rioxarray, rasterio, xarray, geopandas, pandas, numpy, scipystats, matplotlib, etc
+GDAL, Rioxarray, rasterio, xarray, geopandas, pandas, numpy, scipystats, matplotlib, etc
 
 ## Planned methodology/approach
 1. Analyze the snow-off airborne lidar to identify locations with low slope (we defined this as <20 degrees). 
@@ -60,3 +60,4 @@ We would like to complete a similar analysis for roughness values instead of slo
 2. Menounos B, Gardner A, Williamson S, Heathfield D. Assessment of Penetration Bias of ICESat-2 over Snow and Ice-covered Terrain, Western Canada. Poster session presented at: Fall Meeting of the American Geophysical Union; 2020 Dec 1-17; online.
 3. Schenk T, Csatho B, Neumann T. A First Horizontal Accuracy Assessment of ICESat-2. Poster session presented at: Fall Meeting of the American Geophysical Union; 2020 Dec 1-17; online.
 4. Riley, Shawn & Degloria, Stephen & Elliot, S.D.. (1999). A Terrain Ruggedness Index that Quantifies Topographic Heterogeneity. International Journal of Science. 5. 23-27. https://www.researchgate.net/publication/259011943_A_Terrain_Ruggedness_Index_that_Quantifies_Topographic_Heterogeneity/citation/download
+5. 
