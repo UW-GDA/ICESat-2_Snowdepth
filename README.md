@@ -18,6 +18,7 @@ Our project will attempt to answer the question: Can ICESat-2 be used to accurat
 
 ## Datasets you will use (with links, if available)
 * Airborne lidar (ASO data)
+   * ATL08
    * https://nsidc.org/data/ASO_50M_SWE/versions/1
    * https://www.airbornesnowobservatories.com/data
 * Snow pillow observations
